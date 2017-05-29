@@ -64,7 +64,7 @@ int main() {
 		for (int i = 0; i < input; i++) {
 			//n++ 0 = input
 			//k--  start as input= 0
-			total = pow((input*a), input)* pow(b, input);
+			total = pow((input*a), input)* pow(b, input); 
 			//(Term from Pascal’s Triangle)*(FirstTerm)^n*(SecondTerm)^k 
 
 
